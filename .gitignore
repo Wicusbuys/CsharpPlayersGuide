@@ -1,0 +1,32 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+*.mdf
+*.ndf
+*.ldf
+*.rdl.data
+*.rdl.designer.cs
+
+# Ignore publish output
+*.publish.xml
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
