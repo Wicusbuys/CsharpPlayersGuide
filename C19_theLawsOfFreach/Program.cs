@@ -1,4 +1,6 @@
-﻿int[] array = new int[] { 4, 51, -7, 13, -99, 15, -8, 45, 90 };
+﻿//Challenge: The laws of the Freach
+//----------------------------------------------
+int[] array = new int[] { 4, 51, -7, 13, -99, 15, -8, 45, 90 };
 
 int currentSmallest = int.MaxValue;
 int total = 0;

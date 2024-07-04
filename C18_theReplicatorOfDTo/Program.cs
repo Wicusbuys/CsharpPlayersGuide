@@ -1,4 +1,7 @@
-﻿int[] originalArray = new int[5];
+﻿//Challenge: The replicator of D To
+//---------------------------------------------------------
+
+int[] originalArray = new int[5];
 
 Console.WriteLine("Enter 5 numbers.");
 
