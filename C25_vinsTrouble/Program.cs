@@ -1,4 +1,4 @@
-﻿// Vin Fletchers Arrows
+﻿// Vin's Trouble
 //--------------------------------------------------------------------------------------------------
 internal class Program
 {
@@ -119,7 +119,7 @@ class Arrow
 
         return arrowheadCost + fletchingCost + shaftCost;
     }
-        
+
 }
 
 enum Arrowhead {Steel, Wood, Obsidian}
