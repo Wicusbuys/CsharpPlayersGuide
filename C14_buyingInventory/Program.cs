@@ -12,7 +12,7 @@ Console.Write("What number do you want to see the price of? ");
 
 int number = Convert.ToInt32(Console.ReadLine());
 
-string item = itemNumber switch
+string item = number switch
 {
     1 => "Rope",
     2 => "Torches",
