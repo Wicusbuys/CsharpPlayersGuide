@@ -28,3 +28,4 @@ for ( int i = 0; i < 4; i++ )
 }
 
 Console.ReadKey();
+Console.ForegroundColor= ConsoleColor.White;

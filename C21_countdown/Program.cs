@@ -16,5 +16,6 @@ Countdown(number);
     if (number == 0) return;
 
     Console.WriteLine(number);
+    Thread.Sleep(1000);
     Countdown(number - 1);
  }
